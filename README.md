@@ -1,8 +1,8 @@
-```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Bem vindo ao meu primeiro projeto
 
-![image](https://github.com/grs96/primeira-pagina/blob/main/imagem-primeira-pagina.png)
+![imagem-primeira-pagina](https://github.com/grs96/primeira-pagina/assets/75642351/9bb30f65-ae73-4dca-bb71-45a10d25caeb)
+
 
 ## Ferramentas utilizadas:
 
@@ -18,4 +18,3 @@
 
 ### Linkedin: https://www.linkedin.com/in/gilberto-rodriguess/
 
-```
